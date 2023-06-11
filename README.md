@@ -1,5 +1,4 @@
 # PyTorch Data Reading Pipeline - read image files
-machine learning with PyTorch
-test
-test
+# 如何使用pytorch构建数据数据读取流程
+
 
